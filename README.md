@@ -12,7 +12,7 @@ As a junior software engineer, I am constantly learning and expanding my skill s
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=aranooke&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=aranooke&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/aranooke/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranooke&layout=compact"/></a>
 </p>
@@ -45,7 +45,7 @@ As a junior software engineer, I am constantly learning and expanding my skill s
 Additional features is generating images from Dalle AI with openai api key.
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
+   <a href="https://github.com/aranooke/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
    </a>
 </div>
